@@ -5,4 +5,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vaidikgupta2000@gmail.com)](vaidikgupta2000@gmail.com)
 
 
+[![HitCount](http://hits.dwyl.com/vaidikg20000/vaidikg20000.svg)](http://hits.dwyl.com/vaidikg20000/vaidikg20000)
+
+
+
+
 🌱 I’m currently learning MERN stack
