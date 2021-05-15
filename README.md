@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **vaidikgupta2000@gmail.com**
 
-- ⚡ Fun fact **I indent my code using spacebar**
+- ⚡ Fun fact **I indent my code using spaces**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
