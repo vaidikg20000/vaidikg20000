@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Vaidik Gupta</h1>
-<h3 align="center">A passionate frontend web developer from India.</h3>
+<h3 align="center">A passionate Software developer from India.</h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vaidik-g-08b679102/)](https://www.linkedin.com/in/vaidik-g-08b679102/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vaidikgupta2000@gmail.com)](vaidikgupta2000@gmail.com)
