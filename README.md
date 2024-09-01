@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaidikg20000" alt="vaidikg20000" /></a> </p>
 
-- 🔭 I’m currently working on [ERP for Schools](https://www.intractonline.com/)
+- 🔭 I’m currently working with Oneture Technologies
 
-- 🌱 I’m currently learning **Vuejs, Node ,Django**
+- 🌱 I’m currently learning **JAVA, Springboot,**
 
-- 💬 Ask me about **Vue, Node, c++**
+- 💬 Ask me about **Vue, Node, c++, JAVA, Reactjs, Nextjs**
 
 - 📫 How to reach me **vaidikgupta2000@gmail.com**
 
